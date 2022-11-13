@@ -1,1 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9315427&assignment_repo_type=AssignmentRepo)
+
+summray of lucture on how to prepare for the labor market
+![0A401C93-5042-420C-A3BF-E1507E7C6184](https://user-images.githubusercontent.com/118065472/201523193-8c7f0c8e-aafc-47c7-a27e-c849dad8e8dd.jpeg)
